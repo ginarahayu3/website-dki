@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/website-dki/static/css/main.5f361e03.chunk.css",
+    "main.js": "/website-dki/static/js/main.d4fbb7f1.chunk.js",
+    "main.js.map": "/website-dki/static/js/main.d4fbb7f1.chunk.js.map",
+    "runtime-main.js": "/website-dki/static/js/runtime-main.a2025d6e.js",
+    "runtime-main.js.map": "/website-dki/static/js/runtime-main.a2025d6e.js.map",
+    "static/css/2.42e01459.chunk.css": "/website-dki/static/css/2.42e01459.chunk.css",
+    "static/js/2.f6668dfe.chunk.js": "/website-dki/static/js/2.f6668dfe.chunk.js",
+    "static/js/2.f6668dfe.chunk.js.map": "/website-dki/static/js/2.f6668dfe.chunk.js.map",
+    "index.html": "/website-dki/index.html",
+    "precache-manifest.7e3d4511a07e380d909a2b386607c587.js": "/website-dki/precache-manifest.7e3d4511a07e380d909a2b386607c587.js",
+    "service-worker.js": "/website-dki/service-worker.js",
+    "static/css/2.42e01459.chunk.css.map": "/website-dki/static/css/2.42e01459.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/website-dki/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f6668dfe.chunk.js.LICENSE.txt": "/website-dki/static/js/2.f6668dfe.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/website-dki/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2025d6e.js",
+    "static/css/2.42e01459.chunk.css",
+    "static/js/2.f6668dfe.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d4fbb7f1.chunk.js"
+  ]
+}
